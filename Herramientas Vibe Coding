@@ -1,0 +1,230 @@
+1.  **Cursor.com** - [https://cursor.com](https://cursor.com)
+    -   Lider del mercado en entornos de desarrollo IA.
+    -   Funciona óptimamente para programadores; puede ser menos adecuada para usuarios sin experiencia en codificación.
+    -   Capaz de asistir en la codificación, autocompletar, refactorizar y construir módulos o proyectos completos.
+
+2.  **FactoryAI** - [https://factory.ai/](https://factory.ai/)
+    -   Herramienta de IA avanzada para generar aplicaciones complejas y su documentación.
+    -   Eficaz con proyectos grandes existentes y tiene acceso a búsqueda web.
+    -   Permite la ejecución de código en la máquina local del usuario y ofrece una experiencia de usuario (UX) destacada, especialmente para programadores.
+
+3.  **Replit AI** - [https://replit.com/ai](https://replit.com/ai)
+    -   Descrita como un Agente de IA muy avanzado para la codificación.
+    -   Ofrece dos modos de operación: Agente o Asistente.
+    -   Generador de aplicaciones full stack con servidor, base de datos y hosting propios. El texto original menciona la construcción de seobotai.com/broken-link-ch… con esta herramienta.
+
+4.  **GitHub Copilot** - [https://github.com/features/copilot](https://github.com/features/copilot)
+    -   Reconocida como una herramienta pionera en el campo, lanzada en 2020.
+    -   Puede generar código, manejar grandes bases de código, gestionar Pull Requests (PRs), corregir errores y buscar en el código.
+    -   Actualmente soporta un modo agente y es de código abierto.
+
+5.  **HeybossAI** - [https://heyboss.ai/](https://heyboss.ai/)
+    -   Calificada como una herramienta de IA para codificación altamente creativa.
+    -   Capaz de construir aplicaciones de nivel de producción, con backend y base de datos.
+    -   Funciona bien para usuarios no programadores y se destaca el diseño de sus resultados.
+
+6.  **Windsurf AI** - [https://windsurf.ai/](https://windsurf.ai/)
+    -   Especialmente efectiva para aplicaciones avanzadas; considerada una de las tres principales.
+    -   Personalmente es mi favorita en estos momentos.
+    -   Opera como un agente autónomo con capacidad de búsqueda web y memoria.
+    -   Adecuada para programadores que buscan optimizar su flujo de trabajo.
+
+7.  **EmergentLabsHQ** - [https://emergentlabs.ai/](https://emergentlabs.ai/)
+    -   Herramienta de codificación con un enfoque "agéntico".
+    -   Gestiona aplicaciones completas, incluyendo frontend y backend.
+    -   Se caracteriza por su rapidez y un sistema de múltiples agentes (codificación, pruebas, etc.) con potencial de desarrollo futuro.
+
+8.  **Softgen** - [https://softgen.ai/](https://softgen.ai/)
+    -   Permitió la finalización de una aplicación en 20 minutos, según se indica en el texto.
+    -   Percibida como una herramienta altamente autónoma.
+    -   Realizó todo el proceso de desarrollo de la aplicación sin necesidad de depuración manual.
+
+9.  **Tempo Labs** - [https://tempolabs.ai/](https://tempolabs.ai/)
+    -   Genera aplicaciones full-stack a partir de instrucciones de texto o imágenes.
+    -   Inicia el proceso creando la arquitectura y diagramas del proyecto.
+    -   La experiencia de usuario (UX) en codificación con IA de esta herramienta es altamente valorada.
+
+10. **Lovable.dev** - [https://lovable.dev/](https://lovable.dev/)
+    -   Startup europea con un rápido crecimiento ($10M ARR reportados).
+    -   Ofrece integración nativa con Supabase y una combinación destacada de IA y NoCode, especialmente su editor WYSIWYG.
+    -   Puede generar aplicaciones web completas a partir de capturas de pantalla como entrada. Se menciona su uso como alternativa a Figma en el texto.
+
+11. **a0.dev** - [https://a0.dev](https://a0.dev)
+    -   Considerada una de las mejores opciones para generar aplicaciones móviles desde un teléfono.
+    -   Plataforma "mobile-first" que permite la creación de apps móviles desde dispositivos móviles.
+    -   Produce aplicaciones React Native (no solo web wrappers) y utiliza el modelo Claude 3.7 Sonnet.
+
+12. **v0 from Vercel** - [https://v0.dev](https://v0.dev)
+    -   Ideal para la creación de páginas web o interfaces de usuario con un diseño cuidado.
+    -   Menos enfocada en el desarrollo de aplicaciones fullstack completas.
+    -   Permite usar Figma como punto de partida y editar elementos individualmente.
+
+13. **Stitch from Google** - (URL no especificada claramente en el texto)
+    -   Destacada como una herramienta óptima para el prototipado rápido.
+    -   Utilizable por fundadores, diseñadores y usuarios sin experiencia en programación.
+    -   Se menciona que es considerablemente más rápida que otras alternativas.
+
+14. **Wrapifai.com** - [http://Wrapifai.com](http://Wrapifai.com)
+    -   Especialmente útil para aplicaciones basadas en formularios (calculadoras, generadores con IA, etc.).
+    -   Utilizada para construir mini herramientas para SEO o lead magnets. El texto menciona la construcción de listingbott.com/domain-authori… con ella.
+    -   Plataforma 100% sin código (nocode) y de fácil uso.
+
+15. **Bolt.new** - [https://bolt.new/](https://bolt.new/)
+    -   Originada como un proyecto secundario de StackBlitz, ha experimentado un crecimiento significativo (recaudación de $105M).
+    -   Apta para diversos perfiles de usuario: programadores, no programadores, marketers.
+    -   Ofrece integración directa con Supabase para gestión de datos, autenticación, etc. Se indica la creación de varios lead magnets con ella.
+
+16. **Create.xyz** - [https://create.xyz/](https://create.xyz/)
+    -   Capaz de clonar un producto a partir de su enlace.
+    -   Posee conexiones a servicios como The Movie DB y Hacker News.
+    -   Permite la configuración de autenticación mediante una sola instrucción (prompt).
+
+17. **MarsX** - [https://marsx.dev/](https://marsx.dev/) (Presentada como un producto del creador del contenido original)
+    -   Combina funcionalidades de IA, NoCode y High Code.
+    -   Utilizada para construir @seobotai, @listingbott y @indexrusher.
+    -   Descrita como un "constructor de SaaS" con el objetivo de evolucionar el desarrollo de software.
+
+18. **Augment Code** - [https://augmentcode.ai/](https://augmentcode.ai/)
+    -   Funciona como extensión en VS Code y JetBrains.
+    -   Diseñada específicamente para programadores.
+    -   Puede ejecutar código, interactuar con la terminal, identificar problemas y analizar el código.
+
+19. **BuildWithMocha** - [https://www.buildwithmocha.com/](https://www.buildwithmocha.com/)
+    -   Orientada a usuarios no programadores.
+    -   Construye aplicaciones full stack a partir de prompts.
+    -   Ofrece una solución completa que incluye autenticación, base de datos, hosting y correos electrónicos.
+
+20. **Rork.app** - [https://rork.app/](https://rork.app/)
+    -   Agente de IA que convierte texto en aplicaciones.
+    -   Especializada en la construcción de aplicaciones móviles.
+    -   Permite la publicación directa en TestFlight, facilitando el proceso para no programadores.
+
+21. **Webdraw** - [https://webdraw.ai/](https://webdraw.ai/)
+    -   Recomendada para personas sin experiencia previa en codificación.
+    -   Destaca por una experiencia de usuario (UX) intuitiva.
+    -   Herramienta gratuita que convierte bocetos en aplicaciones web funcionales.
+
+22. **IDX** - [https://idx.dev/](https://idx.dev/) (Project IDX de Google)
+    -   Alternativa gratuita a Cursor.
+    -   Capaz de construir aplicaciones móviles.
+    -   Utiliza el modelo Gemini de Google.
+
+23. **Aider** - [https://github.com/paul-gauthier/aider](https://github.com/paul-gauthier/aider)
+    -   Puede generar diversos componentes a partir de prompts.
+    -   Ofrece una interfaz de usuario en la terminal.
+    -   Funciona como un asistente de programación (pair programmer) en el entorno local.
+
+24. **Devin** - [https://www.cognition-labs.com/](https://www.cognition-labs.com/)
+    -   Herramienta con un coste más accesible, orientada al sector corporativo.
+    -   Diseñada para actuar como un desarrollador junior dentro de un equipo.
+    -   Puede enviar pull requests y colaborar con equipos de desarrollo, aunque su efectividad puede variar según la estructura del repositorio.
+
+25. **Continue.dev** - [https://continue.dev](https://continue.dev)
+    -   Alternativa de código abierto a Cursor.
+    -   Adecuada para usuarios que deseen construir su propio IDE con IA.
+    -   Fue la base para el desarrollo de Pear AI mediante un fork.
+
+26. **Tabnine** - [https://www.tabnine.com/](https://www.tabnine.com/)
+    -   Funciona principalmente como una herramienta avanzada de autocompletado con IA.
+    -   Está expandiendo gradualmente sus capacidades hacia la generación de código con IA.
+    -   Proporciona asistencia durante el proceso de codificación.
+
+27. **Amazon CodeWhisperer** - [https://aws.amazon.com/codewhisperer/](https://aws.amazon.com/codewhisperer/)
+    -   Capaz de generar pruebas unitarias.
+    -   Ofrece ayuda general en tareas de codificación.
+    -   Integrada dentro del ecosistema de servicios de AWS.
+
+28. **Grok Studio from X AI** - [https://x.ai/](https://x.ai/)
+    -   Descrita como una forma interactiva de experimentar con el código.
+    -   Sugerida como una herramienta potencial para el aprendizaje de la programación.
+    -   Se valora su aspecto lúdico y educativo.
+
+29. **Canva Code** - [https://www.canva.com/features/ai-code-generator/](https://www.canva.com/features/ai-code-generator/)
+    -   Útil para la creación de lead magnets, especialmente para fundadores, no programadores y marketers.
+    -   Integrada en la plataforma Canva, lo que facilita su acceso y uso.
+    -   Enfoque visual y accesible.
+
+30. **Clark** - [https://www.clark.ai/](https://www.clark.ai/)
+    -   Agente de IA para el desarrollo de aplicaciones empresariales internas.
+    -   Puede generar una aplicación a partir de tickets de Jira.
+    -   Combina el uso de prompts, una interfaz de edición similar a Figma y codificación tradicional.
+
+31. **Trae** - (URL no encontrada con certeza)
+    -   Permite el desarrollo completo de 0 a 1 mediante prompts.
+    -   Herramienta gratuita desarrollada por Bytedance.
+    -   Capaz de crear aplicaciones web fullstack; dirigida a programadores.
+
+32. **Cline** - [https://www.cline.ai/](https://www.cline.ai/)
+    -   Plugin para el editor VS Code.
+    -   Funciona eficazmente con grandes bases de código.
+    -   Compatible con diversos LLMs y posee "runtime awareness" (conocimiento del entorno de ejecución).
+
+33. **Databutton** - [https://www.databutton.io/](https://www.databutton.io/)
+    -   Desarrollada en Noruega, con respaldo de VCs.
+    -   Presenta un enfoque único en el mercado.
+    -   Funciona muy bien para usuarios sin conocimientos de programación (verdaderos no-coders).
+
+34. **Base44** - [https://www.base44.com/](https://www.base44.com/)
+    -   Dirigida a usuarios no programadores.
+    -   Solución integral "todo en uno".
+    -   Especialmente eficaz para crear aplicaciones tipo dashboard.
+
+35. **Qodo** - [https://qodo.ai/](https://qodo.ai/)
+    -   Herramienta para programadores.
+    -   Capaz de escribir pruebas, refactorizar código y generar nuevo código.
+    -   Compatible con todos los LLMs, incluyendo DeepSeek.
+
+36. **Pear AI** - [https://pe.ar/](https://pe.ar/)
+    -   Startup que participó en Y Combinator (YC).
+    -   Estuvo involucrada en una controversia relacionada con la bifurcación (fork) de un repositorio de GitHub.
+    -   Sus fundadores están desarrollando un enfoque alternativo para competir en el mercado de IDEs con IA.
+
+37. **GitHub Spark** - (URL no especificada, probable característica de `github.com`)
+    -   Adecuada para el desarrollo de aplicaciones pequeñas o demostraciones.
+    -   El acceso a su vista previa técnica estaba limitado por una lista de espera según el texto fuente.
+    -   Parte del ecosistema de GitHub.
+
+38. **AmpCode from Sourcegraph** - [https://sourcegraph.com/](https://sourcegraph.com/) (Como característica de Sourcegraph)
+    -   Herramienta de codificación "agéntica" (paralela) diseñada para programadores.
+    -   Desarrollada por una empresa con amplia experiencia en el análisis de código.
+    -   Funciona como un plugin para IDEs.
+
+39. **Haystack** - (URL específica del "IDE on top of a canvas" no identificada con claridad)
+    -   Conceptualizado como un IDE construido sobre una interfaz de lienzo (canvas).
+    -   Propone una idea creativa para la experiencia de usuario en la refactorización de código con IA.
+    -   También ofrece funcionalidades de revisión de código.
+
+40. **ChatGPT code canvas** - [https://chat.openai.com/](https://chat.openai.com/)
+    -   Útil para usuarios no programadores que están aprendiendo a codificar.
+    -   El texto fuente incluye una demostración de la construcción de Windows 95 con esta herramienta.
+    -   Integrado en la plataforma ChatGPT.
+
+41. **Claude Code** - (Documentación probablemente en [https://docs.anthropic.com/](https://docs.anthropic.com/))
+    -   Herramienta de línea de comandos (CLI) que permite delegar tareas de ingeniería a Claude.
+    -   Tiene acceso completo a la base de código del usuario, pruebas y repositorios de GitHub.
+    -   Opera directamente desde la terminal.
+
+42. **Jules from Google** - (URL no especificada, podría ser una herramienta interna de Google)
+    -   Dirigida a programadores.
+    -   Puede utilizarse para la corrección de errores o la realización de tareas sencillas.
+    -   Capaz de revisar código.
+
+43. **Claude 3.7 or 4 Sonnet** - (Este es un LLM, accesible vía API de Anthropic: [https://www.anthropic.com/](https://www.anthropic.com/))
+    -   Considerado un LLM de alto rendimiento para tareas de codificación, según la información del texto.
+    -   Utilizado como motor por otras herramientas de desarrollo (ej. a0.dev).
+    -   Modelo de lenguaje fundamental.
+
+44. **OpenAI Codex** - (Modelo de IA de OpenAI, accesible vía API: [https://openai.com/product](https://openai.com/product))
+    -   Orientado a programadores.
+    -   Funciona con repositorios de código existentes.
+    -   Se perfila como un competidor de herramientas como Devin.
+
+45. **Caffeine AI** - [https://caffeine.ai/](https://caffeine.ai/)
+    -   Un nuevo actor en el mercado de herramientas de IA para codificación.
+    -   En el momento de la creación del contenido original, era demasiado pronto para una evaluación detallada.
+    -   Incluida en la lista para seguimiento futuro tras su lanzamiento.
+
+46. **Jetbrains** - [https://www.jetbrains.com/ai/](https://www.jetbrains.com/ai/) (Para sus herramientas con IA)
+    -   Compañía con una trayectoria reconocida en herramientas de desarrollo.
+    -   El texto original expresaba expectativas sobre su liderazgo en la generación de código con IA.
+    -   Se espera que continúen desarrollando sus capacidades en este ámbito.
